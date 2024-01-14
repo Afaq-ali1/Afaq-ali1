@@ -29,10 +29,9 @@
 # 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afaq-ali1&theme=dark" alt="afaq-ali1" /></p>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afaq-ali1&show_icons=true&theme=dark&locale=en&layout=compact" alt="afaq-ali1" /></p>
-<br/>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=afaq-ali1&show_icons=true&theme=dark&locale=en" alt="afaq-ali1" /></p>
 <br/>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afaq-ali1&show_icons=true&theme=dark&locale=en&layout=compact" alt="afaq-ali1" /></p>
+<br/>
