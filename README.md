@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aafaq.ali.5209@gmail.com**
 
-- ⚡ Fun fact **Love is life & coding is love**
+- ⚡ Fun fact **Roses are Red,Voilets are Blue Unepected '{' on line 32**
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afaq_x0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/afaq-ali-53a659278/)  
