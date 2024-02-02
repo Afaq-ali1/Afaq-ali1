@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afaq-ali1&label=Profile%20views&color=210eb4&style=flat" alt="afaq-ali1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/afaq_ali143" target="blank"><img src="https://img.shields.io/twitter/follow/afaq_ali143?logo=twitter&style=for-the-badge" alt="afaq_ali143" /></a> </p>
+<p align="left"> <a href="https://twitter.com/afaq_ali143" target="blank"><img src="https://img.shields.io/twitter/follow/afaq_ali143?logo=twitter&style=for-the-badge" alt="afaqalyy" /></a> </p>
 
 - 🌱 I’m currently learning **frontend web development**
 
