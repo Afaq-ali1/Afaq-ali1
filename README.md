@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afaq-ali1&label=Profile%20views&color=210eb4&style=flat" alt="afaq-ali1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/afaq_ali143" target="blank"><img src="https://img.shields.io/twitter/follow/afaq_ali143?logo=twitter&style=for-the-badge" alt="afaqalyy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/afaqalyy" target="blank"><img src="https://img.shields.io/twitter/follow/afaqalyy?logo=twitter&style=for-the-badge" alt="[afaqalyy](https://twitter.com/afaqalyy)" /></a> </p>
 
 - 🌱 I’m currently learning **frontend web development**
 
@@ -15,7 +15,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](afaqalyy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afaq_x0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/afaq-ali-53a659278/)  
 
 <p align="left">
-<a href="https://twitter.com/afaq_ali143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afaq_ali143" height="30" width="40" /></a>
+<a href="https://twitter.com/afaqalyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/afaqalyy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/afaq-ali-53a659278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/afaq-ali-53a659278/" height="30" width="40" /></a>
 <a href="https://instagram.com/afaq_x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afaq_x0" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aafaq_ali_5209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aafaq_ali_5209" height="30" width="40" /></a>
