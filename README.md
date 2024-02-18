@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afaq</h1>
-<h3 align="center">A passionate frontend web developer from Pakistan</h3>
+<h3 align="center"> A passionate frontend web developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afaq-ali1&label=Profile%20views&color=210eb4&style=flat" alt="afaq-ali1" /> </p>
 
