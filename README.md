@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Afaq</h1>
-<h3 align="center"> A passionate frontend web developer from Pakistan</h3>
+<h3 align="center"> A Passionate Frontend Web Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afaq-ali1&label=Profile%20views&color=210eb4&style=flat" alt="afaq-ali1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/afaqalyy" target="blank"><img src="https://img.shields.io/twitter/follow/afaqalyy?logo=twitter&style=for-the-badge" alt="[afaqalyy](https://twitter.com/afaqalyy)" /></a> </p>
 
-- 🌱 I’m currently learning **frontend web development**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **aafaq.ali.5209@gmail.com**
 
