@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afaq</h1>
-<h3 align="center">🔐 Cybersecurity Enthusiast | Ethical Hacker | CTF Player</h3>
-<h4 align="center">💻 Also exploring Front-End Development</h4>
+<h3 align="center">🔐 Cybersecurity Researcher | Ethical Hacker | Full Stack Developer</h3>
+<h4 align="center">💻 Passionate about Securing & Building Scalable Web Applications</h4>
 
 ---
 
@@ -18,13 +18,15 @@
 
 ### 🧠 About Me
 
-- 🎯 Focused on **Web & Network Vulnerability Assessment**
-- 🛡️ **TryHackMe** | **Hack The Box** | **CTF Player**
-- 🐞 Practicing **Bug Bounty Hunting**, **Reverse Engineering**, and **Exploitation**
-- 🌱 Also learning **Frontend Web Development**
-- 💬 Ask me about **OWASP Top 10**, **CVSS**, **VAPT**, **Linux Security**
-- 📧 Email: **aafaq.ali.5209@gmail.com**
-- ⚡ Fun fact: *Roses are Red, Violets are Blue, Unexpected `{` on line 32*
+- 🎯 Cybersecurity practitioner focused on **network/web application security** & **penetration testing**
+- 🐞 Reported and remediated **critical vulnerabilities** in university systems
+- 🔍 Experienced in **manual & automated scanning** using Burp Suite, Acunetix, Nessus, etc.
+- 🛡️ Performed **Remote Desktop Protocol (RDP)** vulnerability assessments
+- 🤝 Collaborated with developers to apply **OWASP Top 10** secure coding standards
+- 🔁 Revalidated previously reported vulnerabilities to ensure proper fixes
+- 🖥️ Worked extensively on **Linux/Windows CLI environments**
+- 🌐 Built full-stack applications using the **MERN Stack** (MongoDB, Express.js, React, Node.js)
+- 📧 Contact me: **aafaq.ali.5209@gmail.com**
 
 ---
 
@@ -39,40 +41,57 @@
 
 ---
 
-## 🛡️ Cybersecurity Tools & Skills
+## 🔧 Tech & Tools
+
+### 🛡️ Cybersecurity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/nmap.svg" alt="Nmap" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Metasploit_logo_and_wordmark.svg" alt="Metasploit" width="100" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wireshark_Logo.svg" alt="Wireshark" width="100" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" title="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wireshark_Logo.svg" height="40" title="Wireshark"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Metasploit_logo_and_wordmark.svg" height="40" title="Metasploit"/>
+  <img src="https://seeklogo.com/images/N/nmap-logo-6E4F252A1B-seeklogo.com.png" width="40" title="Nmap"/>
 </p>
+
+**Tools**: Burp Suite · OWASP ZAP · Acunetix · Greenbone · Nessus · Nikto · Active Directory · Cisco Packet Tracer  
+**Environments**: Linux CLI · Windows CLI · RDP Assessments  
+**Standards**: OWASP Top 10 · CVSS 3.1 · ISO/IEC 27001
+
+---
+
+### 💻 Full-Stack Development
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" title="Express"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
+</p>
+
+Other Stacks: Flask · PHP · Laravel · C# · SQL
 
 ---
 
 ## 📜 Certifications
 
-| Platform | Course / Certificate | Status |
-|---------|----------------------|--------|
-| 🛡️ TryHackMe | ![Pre Security](https://tryhackme-badges.s3.amazonaws.com/afaqali.png) | Completed |
-| 🧠 Udemy | Ethical Hacking: Bug Bounty, Web App Pentesting | ✅ |
-| 🧠 Udemy | Linux for Hackers | ✅ |
-| 💻 Coursera | Python for Everybody | ✅ |
-| 🎯 TryHackMe | Complete Beginner → Offensive Pentesting Path | In Progress |
-
-> ✅ Let me know if you want to add certificate **links** or **PDFs**!
+| 🏅 Certification | Issuer | Focus |
+|-----------------|--------|-------|
+| **Bug Bounty Hunting** | Udemy | Injections, Priv Esc, Auth Bypass |
+| **OWASP Top 10 Labs** | TryHackMe | Practical Testing via Labs |
+| **Cybersecurity Bootcamp** | Tech Hierarchy | PenTesting, Ethical Hacking |
+| **ISO/IEC 27001** | Certified InfoSec | ISMS & Risk Management |
 
 ---
 
-## 💻 Front-End Stack
+## 🧪 TryHackMe Badge
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/afaqali.png" alt="TryHackMe" />
 </p>
 
 ---
@@ -81,12 +100,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afaq-ali1&theme=dark" alt="afaq-ali1 streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=afaq-ali1&show_icons=true&theme=dark&locale=en" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afaq-ali1&show_icons=true&theme=dark&layout=compact" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afaq-ali1&show_icons=true&theme=dark&locale=en" alt="afaq-ali1 stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afaq-ali1&show_icons=true&theme=dark&locale=en&layout=compact" alt="afaq-ali1 languages" />
-</p>
+---
