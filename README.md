@@ -35,8 +35,8 @@
 <p align="center">
   <a href="https://twitter.com/afaqalyy"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
   <a href="https://instagram.com/afaq_x0"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/afaqali52/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/afaqali0"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/afaq-ali-53a659278/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/afaqali"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 </p>
 
 ---
@@ -46,26 +46,12 @@
 ### 🛡️ Cybersecurity
 
 <p align="center">
-  <p align="center">
-  <!-- ✅ Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-  
-  <!-- ✅ Bash -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" title="Bash"/>
-  
-  <!-- ✅ Linux -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  
-  <!-- ✅ Wireshark (custom hosted PNG) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Wireshark_icon.png" width="40" title="Wireshark"/>
-  
-  <!-- ✅ Metasploit (PNG format from Wikimedia) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Metasploit-logo.png" width="40" title="Metasploit"/>
-  
-  <!-- ✅ Nmap (hosted on GitHub) -->
-  <img src="https://github.com/landybird/Nmap-Logo/raw/main/nmap-logo.png" width="40" title="Nmap"/>
-</p>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wireshark_Logo.svg" height="40" title="Wireshark"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Metasploit_logo_and_wordmark.svg" height="40" title="Metasploit"/>
+  <img src="https://seeklogo.com/images/N/nmap-logo-6E4F252A1B-seeklogo.com.png" width="40" title="Nmap"/>
 </p>
 
 **Tools**: Burp Suite · OWASP ZAP · Acunetix · Greenbone · Nessus · Nikto · Active Directory · Cisco Packet Tracer  
