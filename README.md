@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afaq</h1>
-<h3 align="center">🔐 I am a passionate Cybersecurity Enthusiast & Ethical Hacker</h3>
+<h3 align="center">🔐 Cybersecurity Enthusiast | Ethical Hacker | CTF Player</h3>
 <h4 align="center">💻 Also exploring Front-End Development</h4>
 
 <p align="left"> 
@@ -13,10 +13,11 @@
 </p>
 
 - 🎯 I specialize in **Web & Network Vulnerability Assessment**
+- 🧠 Active on **TryHackMe**, **Hack The Box**, and **playing CTFs**
 - 👨‍💻 Currently working on **Bug Bounty Hunting & Pentesting Labs**
 - 🌱 Also learning **Frontend Web Development**
-- 🧠 Familiar with **OWASP Top 10**, **CVSS**, **TryHackMe**, and **HackTheBox**
-- 📧 Reach me at **aafaq.ali.5209@gmail.com**
+- 💬 Ask me about **OWASP Top 10**, **CVSS**, **VAPT**, **Linux**
+- 📫 How to reach me **aafaq.ali.5209@gmail.com**
 - ⚡ Fun fact: **Roses are Red, Violets are Blue, Unexpected '{' on line 32**
 
 ---
@@ -25,7 +26,8 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/afaqalyy) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afaq_x0) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afaq-ali-53a659278/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afaq-ali-53a659278/)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/afaqali)
 
 <p align="left">
 <a href="https://twitter.com/afaqalyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
@@ -40,12 +42,12 @@
 # 🛡️ Cybersecurity Tools & Skills
 
 <p align="left">
-  <img src="https://www.svgrepo.com/show/374118/wireshark.svg" alt="Wireshark" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354250/linux-tux.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="Nmap" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Metasploit_logo.png" alt="Metasploit" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/nmap.svg" alt="Nmap" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Metasploit_logo_and_wordmark.svg" alt="Metasploit" width="100" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wireshark_Logo.svg" alt="Wireshark" width="100" height="40"/>
 </p>
 
 ---
