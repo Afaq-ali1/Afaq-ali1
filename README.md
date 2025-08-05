@@ -46,12 +46,26 @@
 ### 🛡️ Cybersecurity
 
 <p align="center">
+  <p align="center">
+  <!-- ✅ Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  
+  <!-- ✅ Bash -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" title="Bash"/>
+  
+  <!-- ✅ Linux -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wireshark_Logo.svg" height="40" title="Wireshark"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Metasploit_logo_and_wordmark.svg" height="40" title="Metasploit"/>
-  <img src="https://seeklogo.com/images/N/nmap-logo-6E4F252A1B-seeklogo.com.png" width="40" title="Nmap"/>
+  
+  <!-- ✅ Wireshark (custom hosted PNG) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Wireshark_icon.png" width="40" title="Wireshark"/>
+  
+  <!-- ✅ Metasploit (PNG format from Wikimedia) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Metasploit-logo.png" width="40" title="Metasploit"/>
+  
+  <!-- ✅ Nmap (hosted on GitHub) -->
+  <img src="https://github.com/landybird/Nmap-Logo/raw/main/nmap-logo.png" width="40" title="Nmap"/>
+</p>
+
 </p>
 
 **Tools**: Burp Suite · OWASP ZAP · Acunetix · Greenbone · Nessus · Nikto · Active Directory · Cisco Packet Tracer  
